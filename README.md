@@ -1,5 +1,5 @@
-	Bootstrapping a simple compiler from nothing
-	============================================
+Bootstrapping a simple compiler from nothing
+============================================
 
 This document describes how I implemented a tiny compiler for a toy
 programming language somewhat reminiscent of C and Forth. The funny
